@@ -1,7 +1,7 @@
 Hi there 👋
 
 I'm Ecem. My department is Mathematics. I have a bachelor's degree in this field. 
-I had experience in HTML, MySQL, C#, Python, LaTeX, Mathematica during t that time.
+I had experience in HTML, MySQL, Python, LaTeX, Mathematica during t that time.
 I've been interested in Data Science for a while. I participate in various events and bootcamps.
 You can observe my progress and projects here ^.^
 
